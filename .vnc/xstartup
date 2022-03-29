@@ -1,0 +1,14 @@
+#!/bin/zsh
+if [ -x /etc/X11/xinit/xinitrc ]; then
+export PULSE_SERVER=127.0.0.1
+  exec /etc/X11/xinit/xinitrc
+fi
+if [ -f /etc/X11/xinit/xinitrc ]; then
+  exec sh /etc/X11/xinit/xinitrc
+fi
+if [ -f /etc/X11/xinit/xinitrc ]; then
+  exec zsh /etc/X11/xinit/xinitrc
+fi
+[ -r $HOME/.Xresources ] && xrdb $HOME/.Xresources
+export PULSE_SERVER=192.168.100.4:4712
+startx 
