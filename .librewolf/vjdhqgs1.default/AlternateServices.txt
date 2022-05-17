@@ -1,4 +1,0 @@
-https:malware-filter.pages.dev:443:.::3	0	19079	https:malware-filter.pages.dev:443:malware-filter.pages.dev:443::n:1648572049:h3:y:1648485357:n::|n:y:
-https:phishing-filter.pages.dev:443:.::3	0	19079	https:phishing-filter.pages.dev:443:phishing-filter.pages.dev:443::n:1648571988:h3:y:1648485357:n::|n:y:
-https:hcaptcha.com:443:.:^partitionKey=%28https%2Cneocities.org%29:3	0	19079	https:hcaptcha.com:443:hcaptcha.com:443::n:1648571777:h3:y:1648485357:n:^partitionKey=%28https%2Cneocities.org%29:|n:y:
-https:newassets.hcaptcha.com:443:.:^partitionKey=%28https%2Cneocities.org%29:3	0	19079	https:newassets.hcaptcha.com:443:newassets.hcaptcha.com:443::n:1648571779:h3:y:1648485357:n:^partitionKey=%28https%2Cneocities.org%29:|n:y:

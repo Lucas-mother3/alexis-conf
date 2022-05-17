@@ -1,6 +1,0 @@
-cdn.jsdelivr.net:HSTS	0	19079	1680021466838,1,1,2
-versioncheck-bg.addons.mozilla.org:HSTS	0	19079	1648486046217,1,0,2
-neocities.org^partitionKey=%28http%2Cneocities.org%29:HSTS	0	19079	1711557621380,1,1,2
-raw.githubusercontent.com:HSTS	0	19079	1680021527601,1,0,2
-shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	0	19079	1680021359865,1,1,2
-neocities.org:HSTS	0	19079	1711557595399,1,1,2
