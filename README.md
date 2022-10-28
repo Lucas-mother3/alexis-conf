@@ -1,7 +1,7 @@
 # Alexis Configuration
 
 ## Overview 
-A set of my configuration files for Linux. This shoul also work on Termux.
+A set of my configuration files for Linux. This should also work on Termux.
 
 If you want my suckless utilities, [please go here](https://github.com/Lucas-mother3/suckless-utils).
 
